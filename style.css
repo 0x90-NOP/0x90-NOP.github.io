@@ -1,0 +1,24 @@
+body
+{
+  background-color: rgb(40, 40, 40);
+  color: rgb(200, 200, 200);
+
+  text-align:center;
+
+  font-family:'Segoe UI';
+  font-size:18;
+}
+
+a.top
+{
+  text-align:left;
+}
+
+button.std
+{
+  background-color: rgb(50, 50, 50);
+  border-color: rgb(100, 100, 100);
+  color:rgb(180, 180, 180);
+  border-style:solid;
+  border-width:1px;
+}
