@@ -1,6 +1,5 @@
-var test = document.getElementById("test");
-var n = null;
-test.addEventListener("click", function(){
-    n = prompt("hi");
-    alert(n);
-}); 
+var Hydroxide = document.getElementById("Hydroxide");
+
+Hydroxide.addEventListener("click", function(){
+    window.location.href = "https://github.com/nrv-ous/Hydroxide";
+});
