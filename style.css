@@ -1,43 +1,25 @@
 body
 {
     margin: 0px;
-    background-color:#efefef;
+    background-image:linear-gradient(to bottom, #fff, #ddd);
     font-family: "Segoe UI";
     font-weight: lighter;
     color: #777;
 }
 
-.upperTop
+img.avatar
 {
-    background-color: #fff;
-
-    display: block;
-    height: 20em;
-
-    text-align: center;
-}
-
-.top
-{
-    font-size: 10em;
-}
-
-.bottom
-{
-    font-size: 2em;
-}
-
-div.avatar
-{
-    margin-top: 2.5%;
-    margin-left: auto;
+    display:block;
+    margin-top: 3%;
+    margin-left:auto;
     margin-right:auto;
     width: 10%;
 }
 
-img.avatar
+.name
 {
-    width: 75%;
+    font-size: 150%;
+    text-align:center;
 }
 
 .inc
@@ -64,10 +46,9 @@ a.link
 
 .works
 {
-    margin-top: 5%;
     margin-left: auto;
-    margin-right:auto;
-    margin-bottom: 5%;
+    margin-right: auto;
+    margin-bottom: 7.3%;
     width: 50%;
 }
 
@@ -80,5 +61,5 @@ a.link
 
 .logo
 {
-    width:50%;
+    width:40%;
 }
